@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ionic/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/js/controllers/client/checkout.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/js/controllers/client/checkoutDetail.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/js/controllers/client/viewDelivery.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/js/controllers/deliveryman/viewOrder.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/js/controllers/login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/js/controllers/nav.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/client/checkout.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/client/checkout_item_detail.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/client/checkout_successful.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/client/order.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/client/view_delivery.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/client/view_order.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/client/view_products.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/deliveryman/order.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/deliveryman/view_order.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic/www/templates/home.html" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
